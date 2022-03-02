@@ -101,5 +101,26 @@
   <ItemGroup>
     <None Include="Resources\1646155228316.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Morfosfera_artwork_md.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\26517.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\265171.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bloco Verde.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bloco Roxo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bloco azul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bloco Vermelho.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
